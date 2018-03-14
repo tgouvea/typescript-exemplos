@@ -15,6 +15,8 @@ Typescript version 2.7.2
 ### Temas abordados 
 
 * Inferência de Tipo
+* Classes, herança e sobrescrita de método
+* Interfaces
 
 
 ### Comandos importantes
