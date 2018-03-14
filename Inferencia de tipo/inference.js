@@ -16,3 +16,4 @@ any (qualquer tipo)
 var test = ['olá', 'teste'];
 var isEnable = true;
 var testString = ['olá'];
+//# sourceMappingURL=inference.js.map
